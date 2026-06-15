@@ -12,6 +12,8 @@ public class SumOfNaturalNumbers {
             sum = sum + number;
         }
         System.out.println(sum);
+        
+        sc.close();
     }
 
 }
